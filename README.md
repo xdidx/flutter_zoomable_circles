@@ -1,6 +1,6 @@
-# axiome
+# Zoomable circles
 
-Axiome mobile app
+Zoomable circles lib
 
 ## Getting Started
 
